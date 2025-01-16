@@ -13,7 +13,7 @@ export default function Footer() {
             className='text-primary transition-colors hover:text-accent-foreground'
             href='https://www.hamedbahram.io/'
           >
-            Studio H
+            Sam
           </Link>
         </p>
       </div>
